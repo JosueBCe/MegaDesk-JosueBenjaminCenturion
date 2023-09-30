@@ -1,0 +1,10 @@
+Planning: 
+
+- sending data from one form to the other 
+
+- handle error case 
+- handle sucess case 
+- comment code 
+
+
+https://youtu.be/pM3SyEMtLdM
